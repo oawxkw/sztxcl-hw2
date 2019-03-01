@@ -14,6 +14,8 @@
 
 ```
 dist/
+    hw2-2.png
+    hw2-4.png
     hw2.pdf
 src/
     pic/
@@ -26,7 +28,7 @@ hw2.pdf
 hw2.txt
 ```
 
-- The `dist/` directory contains all complied reports, which have different types of file.
+- The `dist/` directory contains all complied reports and pictures.
 - The `src/` directory contains all source code and source pictures.
 - The `hw2.pdf` file is the homework 2 report file, same as `dist/hw2.pdf`.
 - The `hw2.txt` file is the homework 2 code file, same as `src/hw2.m`.
