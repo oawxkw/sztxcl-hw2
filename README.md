@@ -12,17 +12,16 @@
 
 ```
 dist/
-    hw2.docx
     hw2.pdf
 src/
     pic/
         Image A.jpg
         Image B.jpg
     hw2.m
-hw2.pdf
-hw2.txt
 .gitignore
 README.md
+hw2.pdf
+hw2.txt
 ```
 
 - The `dist/` directory contains all complied reports, which have different types of file.
